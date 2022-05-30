@@ -10,4 +10,4 @@ By the end of this project i hope to have a good understanding of creating:
       . Adding image content to HTML pages
       . Creating paragraph tags with content between the opening and closing tags
       . Making regular commit messages and push to the projects remote repo
-      .  Publishing site to Git Hub pages
+      . Publishing site to Git Hub pages
