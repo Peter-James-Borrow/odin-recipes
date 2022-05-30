@@ -3,7 +3,7 @@
 This is a basic HTML5 project to recap the basics of HTML and work on building a concrete understanding of working with Git and using commit messages to track progress.
 By the end of this project i hope to have a good understanding of creating --
 
-     Filing system and file structure
+      . Filing system and file structure
      Setting up HTML5 boiler plate
      Adding Headings and the importance of heading hierarchy
      Using Ordered and Unordered lists 
